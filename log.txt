@@ -1,0 +1,31 @@
+* 8d5f1bf (HEAD -> Mejoras) cambios paso 5
+* c7c6e74 Create DP_ControldeCambios_Grupo3-v1_1.pdf
+* cbc4aa8 (tag: Rev1, main) s
+* 56e56b3 (HEAD -> Mejoras) cambios paso 5
+* f6773e0 Create DP_ControldeCambios_Grupo3-v1_1.pdf
+* de4dd64 (main) paso 7
+| *   7f83aa5 (refs/stash) On Mejoras: !!GitHub_Desktop<Mejoras>
+| |\
+| | * 7a53895 index on Mejoras: 8d5f1bf cambios paso 5
+| |/
+| * 8d5f1bf cambios paso 5
+| * c7c6e74 Create DP_ControldeCambios_Grupo3-v1_1.pdf
+|/
+*   7862813 (refs/stash) On Mejoras: !!GitHub_Desktop<Mejoras>
+|\
+| * 4d3a460 index on Mejoras: 56e56b3 cambios paso 5
+|/
+* 56e56b3 (HEAD -> main) cambios paso 5
+* f6773e0 Create DP_ControldeCambios_Grupo3-v1_1.pdf
+* de4dd64 paso 7
+* cbc4aa8 (tag: Rev1) s
+* f615f0a (HEAD -> main, tag: Rev3) Paso13
+| *   7862813 (refs/stash) On Mejoras: !!GitHub_Desktop<Mejoras>
+| |\
+| | * 4d3a460 index on Mejoras: 56e56b3 cambios paso 5
+| |/
+| * 56e56b3 (tag: Rev2) cambios paso 5
+| * f6773e0 Create DP_ControldeCambios_Grupo3-v1_1.pdf
+| * de4dd64 paso 7
+|/
+* cbc4aa8 (tag: Rev1) s
